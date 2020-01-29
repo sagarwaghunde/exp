@@ -1,0 +1,6 @@
+[submodule "exp-profile"]
+	path = exp-profile
+	url = https://github.com/sagarwaghunde/exp-profile.git
+[submodule "exp-customer"]
+	path = exp-customer
+	url = https://github.com/sagarwaghunde/exp-customer.git
